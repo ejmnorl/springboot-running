@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" localhos:t:9001/bulk/supplyLocations -d @supplyLocati
